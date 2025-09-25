@@ -1,4 +1,4 @@
-![image](https://github.com/Handvery/TripleQ-UAV/blob/main/dataset.png)
+![image]()
 ## :fire: PGC-AVQ
 The PGC-AVQ Dataset is available at 
 
