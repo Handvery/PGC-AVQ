@@ -148,7 +148,7 @@ def train_model(model, train_dataloader, test_dataloader, num_epochs=200, lr=0.0
 
     print("Training complete!")
 
-# -------------------- 主程序示例 --------------------
+# -------------------- 主程序 --------------------
 if __name__ == "__main__":
     audio_dir = "/home/Users/zcy/Multimodal_assessment/dataset_video/audio/"
     video_dir = "/home/Users/zcy/Multimodal_assessment/dataset_video/video/"
